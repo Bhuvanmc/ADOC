@@ -1,0 +1,2 @@
+# ADOC
+data oibservability cloud
