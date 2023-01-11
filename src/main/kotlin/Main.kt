@@ -5,6 +5,9 @@ fun getGreeting2():String{
     return "hi"
 }
 fun printAlert(type:String, description:String)=println("$type $description")
+var mergetest="devbranch"
+
+
 fun main(args: Array<String>) {
     println("Welcome to Alerts")
     val type:String = "Query_Overload"
